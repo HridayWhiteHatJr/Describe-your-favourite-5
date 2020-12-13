@@ -1,0 +1,111 @@
+body {
+    text-align: center;
+}
+
+#lol {
+    border-radius: 60%;
+    width: 10%;
+}
+
+H1 {
+    font-size: 30px;
+    text-shadow: 0.5px 0.5px #FF1744;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 150px;
+    margin: 10px auto;
+}
+
+p {
+    color: #1976D2;
+    font-size: 25px;
+}
+
+.menu {
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.listItems {
+    float: left;
+    color: black;
+    padding: 8px;
+    font-family: font-family: 'Quattrocento', serif;
+    font-size: 20px;
+}
+
+
+H2 {
+    font-size: 30px;
+    color: #1976D9;
+}
+
+#Home {
+    background: linear-gradient(#00B0FF 0%, #00E676 100%);
+}
+
+#about {
+    background: linear-gradient(#E040FB 0%, #FFFF00 100%);
+
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#Inspiration {
+    background: linear-gradient(#4527A0 0%, #2962FF 100%);
+    height:700px;
+}
+
+p2 {
+    color: #311B92;
+    font-size: 25px;
+}
+
+#Contact {
+    background: linear-gradient(#FF6D00 0%, #D500F9 100%);
+    padding: 20px !important;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.listItems:hover {
+    background: linear-gradient(#4527A0 0%, #2962FF 100%);
+}
+
+section {
+    padding: 100px;
+    height: auto;
+}
+
+#Work {
+    background: linear-gradient(#E040FB 0%, #FFFF00 100%);
+}
+
+.omg {
+    height: 300px;
+    border: 8px solid #AAAAAA;
+    margin: 5px;
+}
+
+.omg:hover {
+    transform: scale(0.9);
+}
+#p3{
+    color: black;
+    font-size: 25px;
+}
+.indiv{
+    float: none;
+}
